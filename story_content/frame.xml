@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="MISMA" />
+              <option name="title_text" value="MISMA V01" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1391,11 +1391,12 @@
         <slidelink slideid="_player.5kJVWRSfJwL" displaytext="GAME" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5kJVWRSfJwL.6dklRM7Q3um" displaytext="Homespacee Game" expand="false" type="slide" />
+            <slidelink slideid="_player.5kJVWRSfJwL.6Q2kB4HrUxb" displaytext="Games" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6EvvPawBfYk" displaytext="PUSTAKA" expand="true" type="slide">
+        <slidelink slideid="_player.6EvvPawBfYk" displaytext="REFERENSI" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6EvvPawBfYk.5XQg9BLAdQ8" displaytext="Pustaka" expand="false" type="slide" />
+            <slidelink slideid="_player.6EvvPawBfYk.5XQg9BLAdQ8" displaytext="Referensi" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6gOZYlSn9me" displaytext="PENGEMBANG" expand="true" type="slide">
